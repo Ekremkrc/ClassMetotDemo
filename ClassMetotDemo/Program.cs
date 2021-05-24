@@ -19,7 +19,7 @@ namespace ClassMetotDemo
                 product2.ProductPrice = 1;
 
                 Product product3 = new Product();
-                product3.ProductName = "Tükenmez Kalem";
+                product3.ProductName = "Kurşun kalem";
                 product3.ProductColor = "Turuncu";
                 product3.ProductPrice = 2.5;
 
